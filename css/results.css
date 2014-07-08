@@ -1,0 +1,27 @@
+
+h1
+{
+    background : cornflowerblue;
+}
+
+ul.links
+{
+    background : royalblue;
+}
+
+ul.links a:hover
+{
+    color : deepskyblue;
+}
+
+table tr
+{
+    background : aliceblue;
+    background : linear-gradient(white,aliceblue);
+}
+
+table th
+{
+    background : royalblue;
+    background : linear-gradient(cornflowerblue,royalblue);
+}

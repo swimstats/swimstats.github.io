@@ -1,0 +1,51 @@
+
+h1
+{
+    background : mediumpurple;
+}
+
+ul.links
+{
+    background : slateblue;
+}
+
+ul.links a:hover
+{
+    color : mediumorchid;
+}
+
+table tr
+{
+    background : rgb(240,240,255);
+    background : linear-gradient(white,rgb(240,240,255));
+}
+
+table th
+{
+    background : slateblue;
+    background : linear-gradient(mediumpurple,slateblue);
+}
+
+table th.history
+{
+    font-weight : normal;
+/*     background : dimgray; */
+/*     background : linear-gradient(darkgray,dimgray); */
+}
+
+table td.history
+{
+/*     text-align : center; */
+    background : whitesmoke;
+    background : linear-gradient(white,whitesmoke);
+}
+
+span.qualified
+{
+    color : forestgreen;
+}
+
+span.notqualified
+{
+    color : firebrick;
+}

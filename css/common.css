@@ -1,0 +1,112 @@
+*
+{
+    padding : 0;
+    margin : 0;
+    font-family : Ubuntu, Verdana;
+}
+
+h1
+{
+    text-align : center;
+    font-variant : small-caps;
+    color : white;
+}
+
+h2
+{
+    border-bottom : thin solid gray;
+    margin : 2em 0 0 0;
+}
+
+h3
+{
+    margin : 1em 0 0 0;
+}
+
+a
+{
+    text-decoration : none;
+}
+
+a:hover
+{
+    text-decoration : underline;
+}
+
+ul
+{
+    list-style-type : none;
+}
+
+ul.links
+{
+    color : white;
+    padding-bottom : 1px;
+}
+
+ul.links li
+{
+    display : inline;
+    margin-left : 1em;
+}
+
+ul.links a
+{
+    color : white;
+    font-size : small;
+}
+
+ul.links a:hover
+{
+    text-decoration : none;
+}
+
+ul.results li
+{
+    display : inline;
+    margin-right : 1em;
+}
+
+div.content
+{
+    margin : 1em;
+    padding : 0 1em;
+}
+
+table th
+{
+    color : white;
+    padding : 1px 5px;
+    border-radius : 3px;
+}
+
+table td
+{
+    padding : 1px 3px;
+}
+
+span.drop
+{
+    color : forestgreen;
+}
+
+span.add
+{
+    color : firebrick;
+}
+
+span.converted
+{
+    font-style : italic;
+}
+
+span.same
+{
+    color : darkviolet;
+}
+
+div.footer
+{
+    text-align : center;
+    font-size : small;
+}
