@@ -4,6 +4,11 @@ h1
     background : cornflowerblue;
 }
 
+h2
+{
+    border-bottom-color : royalblue;
+}
+
 ul.links
 {
     background : royalblue;
