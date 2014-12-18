@@ -1,0 +1,40 @@
+h1
+{
+    background : rgb(60,60,60);
+    border-bottom : 10px solid black;
+}
+
+ul.links a:hover
+{
+    color : deepskyblue;
+}
+
+table tr
+{
+    background : whitesmoke;
+    background : linear-gradient(white,whitesmoke);
+    background : linear-gradient(white,rgb(245,245,245));
+}
+
+table th
+{
+    background : black;
+    background : linear-gradient(rgb(60,60,60),black);
+}
+
+table.counts td
+{
+    font-size : 1.5em;
+}
+
+table.counts td
+{
+    background : rgb(245,245,245);
+}
+
+table td.count
+{
+    width : 4em;
+    text-align : center;
+}
+
