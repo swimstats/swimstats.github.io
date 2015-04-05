@@ -1,0 +1,75 @@
+div.content ul
+{
+    list-style-type : none;
+}
+
+div.content li
+{
+    display : inline;
+    margin-right : 1em;
+}
+
+div.content table.timestandards
+{
+    width : 50%;
+}
+
+div.content table.timestandards th.standard,
+div.content table.timestandards th.new,
+div.content table.timestandards th.total
+{
+    width : 33%;
+}
+
+div.content table.timestandards td.standard
+{
+    text-align : left;
+/*     padding-left : 3em; */
+}
+
+div.content table.timestandards td.new,
+div.content table.timestandards td.total
+{
+    text-align : center;
+}
+
+div.content td.age
+{
+    text-align : center;
+}
+
+div.content td.drops,
+div.content td.adds,
+div.content td.points
+{
+    text-align : right;
+}
+
+div.content th.swimmer
+{
+    width : 60%;
+}
+
+div.content th.age,
+div.content th.drops,
+div.content th.adds,
+div.content th.points
+{
+    width :10%;
+}
+
+div.content table.standards th
+{
+/*     width : 12.5%; */
+    width : 14%;
+}
+
+div.content table.standards td.clear
+{
+    background : none;
+}
+
+div.content table.standards td.count
+{
+    text-align : center;
+}

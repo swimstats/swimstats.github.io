@@ -1,0 +1,93 @@
+/* GLOBAL */
+
+body
+{
+    background : aliceblue;
+}
+
+
+/* HEADER */
+
+div.header h1
+{
+    color : white;
+    background : cornflowerblue;
+    border-bottom : 1px solid royalblue;
+}
+
+div.header div.links
+{
+    background : royalblue;
+    color : rgb(240,240,240);
+}
+
+div.header div.links div.home
+{
+    color : white;
+    text-shadow : 0px 0px 2px black;
+}
+
+div.header div.links div.home a,
+div.header h1 a
+{
+    color : white;
+}
+
+div.header div.links div.indices a
+{
+    color : rgb(240,240,240);
+}
+
+div.header div.links div.indices a:hover,
+div.header div.links div.home a:hover,
+div.header h1 a:hover
+{
+    color : deepskyblue;
+}
+
+
+/* CONTENT */
+
+div.content th
+{
+    background : linear-gradient(cornflowerblue,royalblue);
+    color : white;
+}
+
+div.content td
+{
+    background : linear-gradient(aliceblue,white);
+}
+
+div.content h2
+{
+    border-bottom : 3px solid royalblue;
+}
+
+
+/* COLOR CODES */
+
+span.drop
+{
+    color : forestgreen;
+}
+
+span.add
+{
+    color : firebrick;
+}
+
+span.converted
+{
+    font-style : italic;
+}
+
+span.same
+{
+    color : darkviolet;
+}
+
+span.new
+{
+    color : forestgreen;
+}

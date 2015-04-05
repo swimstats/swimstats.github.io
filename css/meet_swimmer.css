@@ -1,0 +1,63 @@
+div.content ul.results li
+{
+    display : inline;
+    margin-right : 1em;
+}
+
+div.content table.improvement,
+div.content table.splits
+{
+    width : 50%;
+}
+
+div.content table.improvement td
+{
+    text-align : center;
+}
+
+div.content table.improvement th.course
+{
+    width : 13%;
+}
+
+div.content table.improvement th.oldtime,
+div.content table.improvement th.newtime,
+div.content table.improvement th.improvement
+{
+    width : 29%;
+}
+
+div.content table.splits td
+{
+    text-align : right;
+}
+
+div.content table.splits th
+{
+    width : 33%;
+}
+
+div.content table.summary td.place,
+div.content table.summary td.session
+{
+    text-align : center;
+}
+
+div.content table.summary td.improvement
+{
+    text-align : right;
+}
+
+div.content table.summary th.event
+{
+    width : 40%;
+}
+
+div.content table.summary th.session,
+div.content table.summary th.place,
+div.content table.summary th.time,
+div.content table.summary th.standard,
+div.content table.summary th.improvement
+{
+    width : 12%;
+}

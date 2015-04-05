@@ -1,0 +1,16 @@
+div.content ul.standards li
+{
+    display : inline;
+    margin-right : 1em;
+}
+
+div.content table td.count
+{
+    text-align : center;
+    width : 16.5%;
+}
+
+div.content table td.age
+{
+    text-align : center;
+}

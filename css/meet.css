@@ -1,0 +1,29 @@
+div.content table.events
+{
+    width : 100%;
+}
+
+div.content table.events td
+{
+    text-align : center;
+}
+
+div.content table.events td
+{
+    width : 16%;
+}
+
+
+div.content table.teams td.athletes,
+div.content table.teams td.splashes,
+div.content table.teams td.points
+{
+    width : 15%;
+    text-align : right;
+}
+
+div.content table.teams td.name
+{
+    width : 55%;
+    text-align : left;
+}

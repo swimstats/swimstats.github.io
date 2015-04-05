@@ -1,122 +1,12 @@
-
-td.line, td.place
-{
-    text-align : center;
-    width : 2em;
-}
-
-td.stroke
-{
-    text-align : left;
-    width : 9em;
-}
-
-td.date
-{
-    text-align : center;
-    width : 6em;
-}
-
-td.acronym
-{
-    text-align : center;
-    width : 3em;
-}
-
-td.meet
-{
-    text-align : left;
-    width : 28em;
-}
-
-td.lsc
-{
-    text-align : center;
-    width : 2em;
-}
-
-td.time
-{
-    text-align : right;
-    width : 5.5em;
-}
-
-td.points
-{
-    text-align : right;
-    width : 3em;
-}
-
-td.age
-{
-    text-align : right;
-    width : 2em;
-}
-
-td.swimmer
-{
-    text-align : left;
-    width : 18em;
-}
-
-td.leg
-{
-    text-align : right;
-    width : 2em;
-}
-
-td.session
-{
-    text-align : center;
-    width : 5em;
-}
-
-td.improvement
+table td.time
 {
     text-align : right;
 }
 
-td.event
-{
-    text-align : left;
-    width : 22em;
-}
-
-td.distance
-{
-    text-align : right;
-    width : 5em;
-}
-
-td.lane
+table td.date,
+table td.acronym,
+table td.lsc,
+table td.points
 {
     text-align : center;
-}
-
-td.standard
-{
-    text-align : left;
-}
-
-table.improvement td
-{
-    text-align : center;
-}
-
-td.rank
-{
-    text-align : center;
-    width : 3em;
-}
-
-td.bool
-{
-    text-align : center;
-    width : 3em;
-}
-
-td.statecut
-{
-    text-align : center;
-    width : 5em;
 }

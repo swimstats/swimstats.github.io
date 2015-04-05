@@ -1,0 +1,102 @@
+
+table.besttimes th.event
+{
+    width : 12%;
+}
+
+table.besttimes th.date
+{
+    width : 10%;
+}
+
+table.besttimes th.meet
+{
+    width : 40%;
+}
+
+table.besttimes th.team
+{
+    width : 6%;
+}
+
+table.besttimes th.lsc
+{
+    width : 4%;
+}
+
+table.besttimes th.time
+{
+    width : 8%;
+}
+
+table.meethistory th.meet
+{
+    width : 50%;
+}
+
+table.meethistory th.date
+{
+    width : 12%;
+}
+
+table.meethistory th.adds,
+table.meethistory th.drops
+{
+    width : 5%;
+}
+
+table.meethistory th.team,
+table.meethistory th.points
+{
+    width : 8%;
+}
+
+table.eventhistory th.meet
+{
+    width : 50%;
+}
+
+table.eventhistory th.time
+{
+    width : 10%;
+}
+
+table.eventhistory th.standard
+{
+    width : 6%;
+}
+
+table.eventhistory th.date
+{
+    width : 12%;
+}
+
+table.eventhistory th.improvement
+{
+    width : 7%;
+}
+
+table.eventhistory th.age
+{
+    width : 5%;
+}
+
+table.eventhistory th.session
+{
+    width : 10%;
+}
+
+table.eventhistory td.age
+{
+    text-align : center;
+}
+
+table.eventhistory td.session
+{
+    text-align : center;
+}
+
+table.eventhistory td.improvement
+{
+    text-align : right;
+}

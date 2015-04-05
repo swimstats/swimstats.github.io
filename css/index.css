@@ -1,0 +1,74 @@
+
+div.header h1
+{
+    visibility : hidden;
+}
+
+div.header div.home
+{
+    visibility : hidden;
+}
+
+div.header div.links
+{
+    color : gray;
+    background : none;
+}
+
+div.header div.links div.indices a
+{
+    color : dimgray;
+}
+
+div.header div.links div.indices a:hover
+{
+    color : black;
+}
+
+div.content
+{
+    background : none;
+    padding : none;
+    box-shadow : none;
+    margin-top : 200px;
+    text-align : center;
+}
+
+div.content h1
+{
+    font-size : 400%;
+    font-variant : small-caps;
+    color : royalblue;
+}
+
+div.content p
+{
+    color : cornflowerblue;
+}
+
+div.content a
+{
+    text-decoration : none;
+    color : royalblue;
+}
+
+div.content a:hover
+{
+    text-decoration : none;
+    color : deepskyblue;
+}
+
+body
+{
+    background : radial-gradient(white,aliceblue);
+}
+
+div.footer
+{
+    margin-top : 2px;
+}
+
+div.footer p
+{
+    color : gray;
+}

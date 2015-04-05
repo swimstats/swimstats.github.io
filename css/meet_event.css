@@ -1,0 +1,74 @@
+div.content td.lane,
+div.content td.place,
+div.content td.age,
+div.content td.team,
+div.content td.leg
+{
+    text-align : center;
+}
+
+div.content td.improvement
+{
+    text-align : right;
+}
+
+div.content table.results tr.individual th.swimmer
+{
+    width : 45%;
+}
+
+div.content table.results tr.individual th.place,
+div.content table.results tr.individual th.age,
+div.content table.results tr.individual th.team,
+div.content table.results tr.individual th.time,
+div.content table.results tr.individual th.improvement
+{
+    width : 11%;
+}
+
+div.content table.heat tr.individual th.swimmer
+{
+    width : 45%;
+}
+
+div.content table.heat tr.individual th.time,
+div.content table.heat tr.individual th.lane,
+div.content table.heat tr.individual th.age,
+div.content table.heat tr.individual th.team,
+div.content table.heat tr.individual th.place
+{
+    width : 11%;
+}
+
+
+
+
+div.content table.results tr.relay th.swimmer
+{
+    width : 34%;
+}
+
+div.content table.results tr.relay th.place,
+div.content table.results tr.relay th.team,
+div.content table.results tr.relay th.age,
+div.content table.results tr.relay th.leg,
+div.content table.results tr.relay th.time,
+div.content table.results tr.relay th.improvement
+{
+    width : 11%;
+}
+
+div.content table.heat tr.relay th.swimmer
+{
+    width : 34%;
+}
+
+div.content table.heat tr.relay th.lane,
+div.content table.heat tr.relay th.team,
+div.content table.heat tr.relay th.age,
+div.content table.heat tr.relay th.leg,
+div.content table.heat tr.relay th.time,
+div.content table.heat tr.relay th.place
+{
+    width : 11%;
+}
