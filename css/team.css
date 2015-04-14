@@ -14,3 +14,22 @@ div.content table td.age
 {
     text-align : center;
 }
+
+
+div.content table.event th.swimmer
+{
+    width : 50%;
+}
+
+div.content table.event th.date
+{
+    width : 14%;
+}
+
+div.content table.event th.age,
+div.content table.event th.time,
+div.content table.event th.standard
+{
+    width : 12%;
+}
+
