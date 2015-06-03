@@ -1,0 +1,32 @@
+div.content td.rank,
+div.content td.date
+{
+    text-align : center;
+}
+
+div.content td.time
+{
+    text-align : right;
+}
+
+div.content table th.swimmer
+{
+    width : 28%;
+}
+
+div.content table th.meet
+{
+    width : 36%;
+}
+
+div.content table th.date,
+div.content table th.time
+{
+    width : 15%;
+}
+
+div.content table th.rank
+{
+    width : 6%;
+}
+

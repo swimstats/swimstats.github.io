@@ -4,10 +4,10 @@ div.content ul.standards li
     margin-right : 1em;
 }
 
-div.content table td.count
+div.content table.standards td
 {
     text-align : center;
-    width : 16.5%;
+    width : 14.5%;
 }
 
 div.content table td.age
@@ -31,5 +31,10 @@ div.content table.event th.time,
 div.content table.event th.standard
 {
     width : 12%;
+}
+
+div.content p
+{
+    margin-bottom : 1em;
 }
 
